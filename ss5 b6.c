@@ -14,7 +14,7 @@ int main(){
 
 	
 	while(i==0){
-	  printf("\n 1.Tong 2 so\n 2.Tich 2 so\n 3.Hieu 2 so\n 4.Thuong 2 so\n 5.Thoat\n");
+	  printf("\n CALCULATOR\n 1.Tong 2 so\n 2.Tich 2 so\n 3.Hieu 2 so\n 4.Thuong 2 so\n 5.Thoat\n");
 	  scanf("%d",&calc);
 	  
 	  switch(calc){
